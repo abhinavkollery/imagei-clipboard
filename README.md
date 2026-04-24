@@ -13,8 +13,8 @@ A sleek, modern, and lightweight desktop application built with Python and PyQt6
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YourUsername/linux-reaction-board.git](https://github.com/abhinavkollery/imagei-clipboard.git)
-   cd linux-reaction-board
+   git clone https://github.com/abhinavkollery/imagei-clipboard.git
+   cd imagei-clipboard
    ```
 
 2. Install the required dependencies:
