@@ -31,4 +31,5 @@ A sleek, modern, and lightweight desktop application built with Python and PyQt6
 * **Adding Reactions:** Click the `+ Add Reaction` button, select an image from your computer, and give it a search name. The app automatically copies the image to the local folder and updates the database.
 * **Copying:** Simply click on any image tile. The app will minimize, and the image is now on your clipboard ready to be pasted!
 
+<img width="1922" height="1044" alt="image" src="https://github.com/user-attachments/assets/ff3691df-1fa0-4e8b-8dfd-8380de00ea96" />
 
